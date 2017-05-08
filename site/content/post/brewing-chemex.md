@@ -14,7 +14,7 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 of the Museum of Modern Art in New York City.
 
-<a href="http:gnu.org" target="_blank">Gnu Opens In A New Window</a>
+<a href="http://wwww.gnu.org" target="_blank">Gnu Opens In A New Window</a>
 
 ## The little secrets of Chemex brewing
 
