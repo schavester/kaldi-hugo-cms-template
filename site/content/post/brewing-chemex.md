@@ -14,7 +14,7 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 of the Museum of Modern Art in New York City.
 
-[thag](https://gnu.org)
+<a href="example.com" target="_blank">New Tab</a>
 
 ## The little secrets of Chemex brewing
 
